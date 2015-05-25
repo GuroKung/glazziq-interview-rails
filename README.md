@@ -24,4 +24,8 @@ This Rails application is intended to be a multi-user messageboard. Users will b
 
 ## Submitting Answers
 
-Upload your code to Github and send a pull request against the original repo.
+Package your entire repo into a `.tar.gz` file and email it to
+[glazziq-dev-interview@glazziq.com](mailto:glazziq-dev-interview@glazziq.com).
+Be sure to send the entire repository so it can be extracted and run
+with no additional external dependencies.
+
